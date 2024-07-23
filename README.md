@@ -2,7 +2,7 @@
 <img src="blokbustr_logo_2024_transparent.png" alt="BLOKBUSTR Logo" width="540">
 </p>
 <p align="center">
-    <a href="https://fanlink.to/BLOKBUSTR"><img src="https://img.shields.io/badge/fanlink-follow%20blokbustr-ad6fcc?style=for-the-badge" alt="Fanlink"></a>
+    <a href="https://fanlink.tv/blokbustr"><img src="https://img.shields.io/badge/fanlink-follow%20blokbustr-ad6fcc?style=for-the-badge" alt="Fanlink"></a>
 </p><hr>
 
 <p>Heyo, I'm BLOK.</p>
