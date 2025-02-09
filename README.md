@@ -6,10 +6,10 @@
 </p><hr>
 
 <p>Heyo, I'm BLOK.</p>
-<p>I am an experimental heavy EDM/IDM artist. In other words, I make crazy music. (:</p>
+<p>I am an experimental heavy EDM/IDM artist. In other words, I make atrocious music. (:</p>
 <p>Check out some of my recent work if you're interested:</p>
 <ul>
-  <li><a href="https://soundcloud.com/stasysmusial/sets/serenade-remixes">Stasys - Serenade (Remixes)</a></li>
+  <li><a href="https://soundcloud.com/stasysmusial/sets/serenade-remixes">Stasys - Serenade (Remixes)</a> (I wrote just one remix, not the entire album lol)</li>
 </ul>
 <p>I also have interests in visual arts and gaming. I have a bit of code experience from Scratch and, more recently, Java. Here on GitHub I mostly follow Minecraft and Lethal Company modding.</p><hr>
 <p>If you wish to collaborate or are seeking assistance for a project, feel free to contact me at wherever is convenient for you:</p>
